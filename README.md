@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aneesh K</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+
+
+
+
 <p align="center">
-<img src="https://wallpapercat.com/boy-programmer-wallpapers" alt="aneeshk888" />
+<img src="https://github.com/user-attachments/assets/22bc611c-f3c5-4d98-8584-76e5959bb315" alt="aneeshk888" />
 </p>
 
 
