@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="center">
-![images](https://github.com/user-attachments/assets/941be68f-7b58-4c11-8e99-4d8fe983ddea)
+<img src="https://github.com/user-attachments/assets/941be68f-7b58-4c11-8e99-4d8fe983ddea" alt="aneeshk888" />
 </p>
 
 
