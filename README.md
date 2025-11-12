@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aneesh K</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+![images](https://github.com/user-attachments/assets/941be68f-7b58-4c11-8e99-4d8fe983ddea)
+
+
+
 <!-- Profile Views Badge (dark variant) -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aneeshk888&label=Profile%20views&color=blueviolet&style=flat" alt="aneeshk888" />
