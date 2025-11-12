@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: aneesh8k88@gmail.com </h3>
 <p align="left">
 <!-- You can add icons with dark-neutral background from simpleicons.org -->
 </p>
