@@ -22,13 +22,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **AI agents**
 
-- 🌱 I’m currently learning **AI systems and autonomous reasoning**
-
-- 💬 Ask me about **C++, Python, and AI agents**
-
-- ⚡ Fun fact **I think I’m funny 😄**
 
 ---
 
