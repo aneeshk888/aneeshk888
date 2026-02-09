@@ -1,10 +1,14 @@
 # 💫 About Me:
-# Hi, I'm Aneesh 👋<br><br>🌱 I’m on a journey of continuous learning, currently upskilling myself to become the best software developer I can be.  <br>⚽ Outside of coding, I love playing football — it keeps me active, focused, and reminds me of the power of teamwork.  <br>💻 I enjoy solving problems, simplifying complexity, and sharing what I discover along the way.  <br>🚀 My bigger aspiration is to become an entrepreneur, turning ideas into solutions that make a real impact.  <br><br>✨ Thanks for visiting my profile — let’s connect and create something meaningful together!<br>
-
-
+# Hi, I'm Aneesh 👋  
 <p align="center">
 <img src="https://github.com/user-attachments/assets/22bc611c-f3c5-4d98-8584-76e5959bb315" alt="aneeshk888" width=720px height=720px />
 </p>
+
+
+<br><br>🌱 I’m on a journey of continuous learning, currently upskilling myself to become the best software developer I can be.  <br>⚽ Outside of coding, I love playing football — it keeps me active, focused, and reminds me of the power of teamwork.  <br>💻 I enjoy solving problems, simplifying complexity, and sharing what I discover along the way.  <br>🚀 My bigger aspiration is to become an entrepreneur, turning ideas into solutions that make a real impact.  <br><br>✨ Thanks for visiting my profile — let’s connect and create something meaningful together!<br>
+
+
+
 
 
 ## 🌐 Socials:
