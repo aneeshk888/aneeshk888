@@ -2,6 +2,11 @@
 # Hi, I'm Aneesh 👋<br><br>🌱 I’m on a journey of continuous learning, currently upskilling myself to become the best software developer I can be.  <br>⚽ Outside of coding, I love playing football — it keeps me active, focused, and reminds me of the power of teamwork.  <br>💻 I enjoy solving problems, simplifying complexity, and sharing what I discover along the way.  <br>🚀 My bigger aspiration is to become an entrepreneur, turning ideas into solutions that make a real impact.  <br><br>✨ Thanks for visiting my profile — let’s connect and create something meaningful together!<br>
 
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/22bc611c-f3c5-4d98-8584-76e5959bb315" alt="aneeshk888" width=720px height=720px />
+</p>
+
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeshmk172003@gmail.com) 
 
@@ -15,15 +20,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aneeshk888&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshk888&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aneeshk888&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aneeshk888&theme=aura_dark&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/22bc611c-f3c5-4d98-8584-76e5959bb315" alt="aneeshk888" width=720px height=720px />
-</p>
+
 
 
