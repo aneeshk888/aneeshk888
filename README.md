@@ -20,7 +20,7 @@
 
 # 📊 GitHub Stats:
 
-
+![snake gif](https://github.com/aneeshk888/aneeshk888/blob/output/github-snake-dark.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=aneeshk888&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aneeshk888&theme=date_night&hide_border=false)<br/>
@@ -32,7 +32,7 @@
 
 -->
 
-![snake gif](https://github.com/aneeshk888/aneeshk888/blob/output/github-snake-dark.svg)
+
 
 
 ### ✍️ Random Dev Quote
