@@ -3,7 +3,7 @@
 # 🌃 NIGHT CITY TERMINAL 🌃
 ### `> connecting to user: ANEESH KRISHNANKUTTY.exe`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Welcome+to+Night+City;[Your quote];ANEESH KRISHNANKUTTY;System+Status%3A+Open to new opportunities " alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Welcome+to+Night+City;[Build|Grind|Reset];ANEESH KRISHNANKUTTY;System+Status%3A+Open to new opportunities " alt="./Typing SVG" />
 
 </div>
 
