@@ -29,7 +29,6 @@
 Name: ANEESH KRISHNANKUTTY
 Alias: Alienzz
 Location: Bangalore, Karnataka, India
-Corp: [Your company]
 Role: Graduate Software Engineer
 Status: Open to new opportunities 
 Availability: Available for full-time positions immediately 
@@ -39,7 +38,7 @@ Availability: Available for full-time positions immediately
 > To create a technology that helps human kind:).
 
 **🎯 Primary Focus:** 🌱 I’m on a journey of continuous learning, currently upskilling myself to become the best software developer I can be.  
-**🚀 Next Objective:** [Your currentGoal]
+**🚀 Next Objective:** Software Developer
 
 ---
 
@@ -47,9 +46,9 @@ Availability: Available for full-time positions immediately
 
 ## ⚡ CYBERDECK SPECS ⚡
 
-<img src="https://github-readme-stats.vercel.app/api?username=[Your username]&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=aneeshk888&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANEESH KRISHNANKUTTY&theme=neon-dark&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff6600&currStreakLabel=ff00ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshk888&theme=neon-dark&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff6600&currStreakLabel=ff00ff" />
 
 </div>
 
