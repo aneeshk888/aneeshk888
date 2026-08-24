@@ -79,7 +79,7 @@ C++,Java & Python
 > Status: ACTIVE
 > Description: Architected a fully offline AI inference platform using Ollama + Docker on WSL; integrated OpenWebUI as chat frontend with system monitoring dashboards.
 > Tech Stack:  Python, Docker, WSL, Ollama, LLaMA2, OpenWebUI
-> Access Terminal: [Your project1Link]
+
 ```
 
 ### ⚡ Project Beta: RAG Chatbot
@@ -87,7 +87,7 @@ C++,Java & Python
 > Status: ACTIVE  
 > Description: Built end-to-end RAG pipeline covering document ingestion, text chunking, vector embedding, and semantic similarity search using LangChain + FAISS.
 > Tech Stack:  Python, LangChain, OpenAI API, FAISS, Vector Embeddings
-> Access Terminal: [Your project2Link]
+
 ```
 
 ### 🌟 Project Gamma: Real-Time CI/CD pipeline
@@ -95,7 +95,7 @@ C++,Java & Python
 > Status: ACTIVE
 > Description: Built an end-to-end CI/CD pipeline automating build, static code analysis, security scanning, and containerized deployment for a Java full-stack application.
 > Tech Stack: Java Full Stack, Docker, Jenkins, Maven, SonarQube, OWASP, Git
-> Access Terminal: [Your project3Link]
+
 ```
 
 ---
