@@ -29,7 +29,6 @@
 Name: ANEESH KRISHNANKUTTY
 Alias: Alienzz
 Location: Bangalore, Karnataka, India
-Corp: [Your company]
 Role: Graduate Software Engineer
 Status: Open to new opportunities 
 Availability: Available for full-time positions immediately 
@@ -39,7 +38,7 @@ Availability: Available for full-time positions immediately
 > To create a technology that helps human kind:).
 
 **🎯 Primary Focus:** 🌱 I’m on a journey of continuous learning, currently upskilling myself to become the best software developer I can be.  
-**🚀 Next Objective:** [Your currentGoal]
+**🚀 Next Objective:** Software developer
 
 ---
 
@@ -95,7 +94,7 @@ C++,Java & Python
 ```
 > Status: ACTIVE
 > Description: Built an end-to-end CI/CD pipeline automating build, static code analysis, security scanning, and containerized deployment for a Java full-stack application.
-> Tech Stack: [Your project3Tech]
+> Tech Stack: Java Full Stack, Docker, Jenkins, Maven, SonarQube, OWASP, Git
 > Access Terminal: [Your project3Link]
 ```
 
@@ -108,7 +107,7 @@ C++,Java & Python
 | Metric | Value |
 |--------|-------|
 | 💻 Programming Hours | 45/week |
-| ☕ Coffee Consumed | [Your coffeeHours] cups/day |
+| ☕ Coffee Consumed | 2 cups/day |
 | 🔄 Currently Learning | I am currently learning Dsa,System design,Full stack development. |
 | 🎯 Active Projects | 3 |
 
@@ -116,13 +115,13 @@ C++,Java & Python
 
 ### 🏆 ACHIEVEMENT_UNLOCKED.dat
 - 🥇 **Built a real-time ci/cd pipeline for automating software lifecycle end to end.**
-- 🥈 **[Your achievement2]**
-- 🥉 **[Your achievement3]**
+<!--- 🥈 **[Your achievement2]**
+- 🥉 **[Your achievement3]** -->
 
 ### 💭 SYSTEM_WISDOM.txt
 > "Self-belief and hard work will always earn you success."
 
-**Fun Fact:** [Your funFact]
+
 
 ---
 
@@ -133,12 +132,12 @@ C++,Java & Python
 <a href="https://linkedin.com/in/aneesh-k-software-engineer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=ff00ff" />
 </a>
-<a href="https://twitter.com/[Your twitter]">
+<!--<a href="https://twitter.com/[Your twitter]">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117&color=00ffff" />
 </a>
 <a href="[Your portfolio]">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117&color=ff6600" />
-</a>
+</a>-->
 <a href="mailto:devxaneesh@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=ff00ff" />
 </a>
